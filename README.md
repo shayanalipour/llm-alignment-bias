@@ -1,2 +1,2 @@
 # llm-alignment-bias
-Repository for the paper "Demographic (Mis)Alignment of LLMs' Perception of Offensiveness"
+Repository for the paper "Robustness and Confounders in the Demographic Alignment of LLMs with Human Perceptions of Offensiveness"
