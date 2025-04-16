@@ -1,0 +1,10 @@
+anthropic==0.42.0
+datasets==3.2.0
+numpy==2.2.1
+ollama==0.4.4
+openai==1.58.1
+pandas==2.2.3
+protobuf==5.29.2
+Requests==2.32.3
+scipy==1.14.1
+tqdm==4.67.1

@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+
+data/human/*
+data/model/*
+data/permutation/*
+*.tex
+*.DS_Store
+
+*.log
